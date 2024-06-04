@@ -1,0 +1,7 @@
+{
+  "name": "appgenerate",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
